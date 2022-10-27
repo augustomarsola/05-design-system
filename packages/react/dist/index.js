@@ -18,5 +18,5 @@ var colors = {
   ignite900: "#00291D"
 };
 
-// src/index.ts
+// src/index.tsx
 console.log(colors);
