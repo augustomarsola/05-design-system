@@ -15,7 +15,7 @@ declare const colors: {
     ignite900: string;
 };
 
-declare const spaces: {
+declare const space: {
     1: string;
     2: string;
     3: string;
@@ -33,7 +33,7 @@ declare const spaces: {
     80: string;
 };
 
-declare const radios: {
+declare const radii: {
     px: string;
     xs: string;
     sm: string;
@@ -76,4 +76,4 @@ declare const lineHeights: {
     tall: string;
 };
 
-export { colors, fontSizes, fontWeights, fonts, lineHeights, radios, spaces };
+export { colors, fontSizes, fontWeights, fonts, lineHeights, radii, space };

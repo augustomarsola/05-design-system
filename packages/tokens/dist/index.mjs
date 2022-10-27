@@ -16,8 +16,8 @@ var colors = {
   ignite900: "#00291D"
 };
 
-// src/spaces.ts
-var spaces = {
+// src/space.ts
+var space = {
   1: "0.25rem",
   2: "0.5rem",
   3: "0.75rem",
@@ -35,8 +35,8 @@ var spaces = {
   80: "20rem"
 };
 
-// src/radios.ts
-var radios = {
+// src/radii.ts
+var radii = {
   px: "1px",
   xs: "4px",
   sm: "6px",
@@ -88,6 +88,6 @@ export {
   fontWeights,
   fonts,
   lineHeights,
-  radios,
-  spaces
+  radii,
+  space
 };
