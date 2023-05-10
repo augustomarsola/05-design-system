@@ -1,0 +1,2 @@
+import{A as t}from"./index.9992f13e.js";import"./index.80242620.js";import"./iframe.daded7da.js";import"./index.c04374e8.js";import"./jsx-runtime.eb71ae68.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://avatarfiles.alphacoders.com/220/thumb-220347.png",alt:"Controller avatar"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},l=["Primary","WithFallBack"];export{c as Primary,e as WithFallBack,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.3a1ca864.js.map
